@@ -1,3 +1,3 @@
 Tarea #5 Servicios Web 
 
-![image](Screenshot.PNG)
+![Captura de pantalla](Screenshot.png)
